@@ -1,0 +1,56 @@
+# ========== Visual Studio Folders ==========
+.vs/
+.idea/
+*.code-workspace
+
+# ========== Build Artifacts ==========
+x64/
+x86/
+Debug/
+Release/
+build/
+out/
+bin/
+obj/
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# ========== Temporary / Generated Files ==========
+*.tmp
+*.bak
+*.old
+*.orig
+
+# ========== CMake (if used) ==========
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# ========== Windows-specific ==========
+Thumbs.db
+Desktop.ini
+
+# ========== DirectX Shader Intermediate Files ==========
+*.cso
+*.hlsl.h
+*.ps.h
+*.vs.h
+
+# ========== Other IDEs ==========
+*.DS_Store
