@@ -8,9 +8,9 @@ ________________________________________________________________________________
 目的：ポインター、タスク管理、音の聞き疲れ防止（同じ効果音にピッチの変化をつけ、ランダム再生する工夫）、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
 
 特にご注目いただきたい点
-- 高度なデバッグ機能
-- セーブ機能 (Task_Game.cpp)
-- 爆発のアルゴリズム（Task_Blast.cpp）
+- 高度なデバッグ機能 https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp
+- セーブ機能 (Task_Game.cpp) https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Game.cpphttps://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp
+- 爆発のアルゴリズム（Task_Blast.cpp）https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Blast.cpp
 
 <img width="1591" height="897" alt="Screenshot 2025-08-16 021157" src="https://github.com/user-attachments/assets/87a0061c-39ad-4569-97f0-b101bbda927f" />
 <img width="1593" height="897" alt="Screenshot 2025-08-16 021348" src="https://github.com/user-attachments/assets/1724e1de-d8e5-402f-8497-1c762f1e5fbf" />
