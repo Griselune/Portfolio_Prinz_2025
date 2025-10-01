@@ -5,7 +5,8 @@ ________________________________________________________________________________
 ### 制作期間：2024/12 ~ 2025/03 | 200時間程度
 作品リンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Escape_Infinity_v0.4.4%20-%20PFversion
 
-目的：ポインター、タスク管理、音の聞き疲れ防止、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
+目的：ポインター、タスク管理、音の聞き疲れ防止（同じ効果音にピッチの変化をつけ、ランダム再生する工夫）、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
+
 特にご注目いただきたい点
 - 高度なデバッグ機能
 - セーブ機能 (Task_Game.cpp)
@@ -20,17 +21,7 @@ ________________________________________________________________________________
 
 
 
-__________________________________________________________________________________________________
-## [チーム制作　4人]　Defence Shooting - Unity2022.3.4f1 - C#
-### 制作期間：2025/05 ~ 2025/06 | 30時間程度
-作品リンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Unity_Team_防衛シューティング_プリンス
 
-特にご注目いただきたい点
-- 砲弾の軌道予測ライン機能 (TrajectoryPred.cs)
-
-<img width="1919" height="1079" alt="Screenshot 2025-08-16 020754" src="https://github.com/user-attachments/assets/e00a7929-4fee-491d-b7df-631235112c86" />
-<img width="1919" height="1079" alt="Screenshot 2025-08-16 020746" src="https://github.com/user-attachments/assets/7d1f2e27-84b1-44fa-9d65-78173843add5" />
-<img width="1917" height="1078" alt="Screenshot 2025-08-16 020734" src="https://github.com/user-attachments/assets/420b8617-5f9c-45fa-bc2d-124d5011118d" />
 
 
 
@@ -51,6 +42,25 @@ ReadMeリンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE
 <img width="2559" height="1366" alt="FishingBattle3" src="https://github.com/user-attachments/assets/c23a7829-0e14-40fb-8dd2-480ea47ae724" />
 <img width="2559" height="1362" alt="FishingBattle4" src="https://github.com/user-attachments/assets/5a0fabf6-3686-433b-a261-5e2eba321c3e" />
 <img width="2559" height="1366" alt="FishingBattle5" src="https://github.com/user-attachments/assets/0fba3d46-1b7c-483d-b6c5-f5b8eaa3346a" />
+
+
+
+
+
+__________________________________________________________________________________________________
+## [チーム制作　4人]　Defence Shooting - Unity2022.3.4f1 - C#
+### 制作期間：2025/05 ~ 2025/06 | 30時間程度
+作品リンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Unity_Team_防衛シューティング_プリンス
+
+特にご注目いただきたい点
+- 砲弾の軌道予測ライン機能 (TrajectoryPred.cs)
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-16 020754" src="https://github.com/user-attachments/assets/e00a7929-4fee-491d-b7df-631235112c86" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-16 020746" src="https://github.com/user-attachments/assets/7d1f2e27-84b1-44fa-9d65-78173843add5" />
+<img width="1917" height="1078" alt="Screenshot 2025-08-16 020734" src="https://github.com/user-attachments/assets/420b8617-5f9c-45fa-bc2d-124d5011118d" />
+
+
+
 
 
 
