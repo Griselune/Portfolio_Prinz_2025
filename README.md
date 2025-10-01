@@ -80,7 +80,7 @@ ________________________________________________________________________________
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/QuadtreeProject_PFversion)
 
 <ins> 特にご注目いただきたい点</ins> :
-- [独自2D物理エンジン]([BChara.cpp](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/BChara.cpp))
+- [独自2D物理エンジン](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/BChara.cpp)
 - [パフォーマンス最適化](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/Quadtree.cpp)
 
 <img width="1501" height="841" alt="Screenshot 2025-08-16 021529" src="https://github.com/user-attachments/assets/65205b07-3b60-4622-bb8d-cd1cf805fa73" />
