@@ -3,14 +3,15 @@ ________________________________________________________________________________
 
 ## [個人制作] **Escape Infinity** - JEC Engine (校内) - C++ / DirectX / Windows API
 ### 制作期間：2024/12 ~ 2025/03 | 200時間程度
-作品リンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Escape_Infinity_v0.4.4%20-%20PFversion
 
-目的：ポインター、タスク管理、音の聞き疲れ防止（同じ効果音にピッチの変化をつけ、ランダム再生する工夫）、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
+作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Escape_Infinity_v0.4.4%20-%20PFversion)
 
-特にご注目いただきたい点
-- 高度なデバッグ機能 https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp
-- セーブ機能 (Task_Game.cpp) https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Game.cpphttps://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp
-- 爆発のアルゴリズム（Task_Blast.cpp）https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Blast.cpp
+<ins>目的</ins> : ポインター、タスク管理、音の聞き疲れ防止（同じ効果音にピッチの変化をつけ、ランダム再生する工夫）、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
+
+<ins>特にご注目いただきたい点</ins> :
+- [高度なデバッグ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
+- [セーブ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Game.cpphttps://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
+- [爆発のアルゴリズム](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Blast.cpp)
 
 <img width="1591" height="897" alt="Screenshot 2025-08-16 021157" src="https://github.com/user-attachments/assets/87a0061c-39ad-4569-97f0-b101bbda927f" />
 <img width="1593" height="897" alt="Screenshot 2025-08-16 021348" src="https://github.com/user-attachments/assets/1724e1de-d8e5-402f-8497-1c762f1e5fbf" />
@@ -31,11 +32,12 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 ## [チーム制作　4人]　Fishing Battle - Unreal Engine 5.5.4 - C++ / BluePrint
 ### 制作期間：2025/06/23 ~ 2025/07/30　｜100時間程度
-ReadMeリンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE5_Project
 
-作品リンク：https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing
+ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE5_Project)
 
-特にご注目いただきたい点
+作品のリンクは[こちら](https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing)
+
+<ins>特にご注目いただきたい点 </ins> :
 - メインメニューとマッチメイキングメニュー
 
 <img width="2559" height="1361" alt="FishingBattle1" src="https://github.com/user-attachments/assets/92e72378-1ce0-4ea9-94cf-6263f03e7548" />
@@ -49,12 +51,15 @@ ReadMeリンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE
 
 
 __________________________________________________________________________________________________
-## [チーム制作　4人]　Defence Shooting - Unity2022.3.4f1 - C#
+## [チーム制作　4人]　防衛シューティングゲーム - Unity2022.3.4f1 - C#
 ### 制作期間：2025/05 ~ 2025/06 | 30時間程度
-作品リンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Unity_Team_防衛シューティング_プリンス
 
-特にご注目いただきたい点
-- 砲弾の軌道予測ライン機能 (TrajectoryPred.cs)
+作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Unity_Team_防衛シューティング_プリンス)
+
+<ins> 特にご注目いただきたい点</ins> :
+- [砲弾の軌道予測ライン機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/TrajectoryPred.cs)
+- [爆発の処理](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/ExpandingExplosion.cs)
+- [弾の発射](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/ShotGenerator.cs)
 
 <img width="1919" height="1079" alt="Screenshot 2025-08-16 020754" src="https://github.com/user-attachments/assets/e00a7929-4fee-491d-b7df-631235112c86" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-16 020746" src="https://github.com/user-attachments/assets/7d1f2e27-84b1-44fa-9d65-78173843add5" />
@@ -71,11 +76,12 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 ## [個人制作] QuadtreeProject - JEC Engine (校内) - C++ / DirectX / Windows API
 ### 制作期間：2025/07 ~ 2025/08 | 50時間程度
-作品リンク：https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/QuadtreeProject_PFversion
 
-特にご注目いただきたい点
-- 2D物理エンジン(BChara.cpp)
-- パフォーマンス最適化(Quadtree.cpp)
+作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/QuadtreeProject_PFversion)
+
+<ins> 特にご注目いただきたい点</ins> :
+- [独自2D物理エンジン]([BChara.cpp](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/BChara.cpp))
+- [パフォーマンス最適化](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/Quadtree.cpp)
 
 <img width="1501" height="841" alt="Screenshot 2025-08-16 021529" src="https://github.com/user-attachments/assets/65205b07-3b60-4622-bb8d-cd1cf805fa73" />
 <img width="1499" height="846" alt="Screenshot 2025-08-16 021627" src="https://github.com/user-attachments/assets/f563d444-d8ff-4c92-a419-ea3452f4a6a7" />
