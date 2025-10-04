@@ -6,19 +6,36 @@ ________________________________________________________________________________
 
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Escape_Infinity_v0.4.4%20-%20PFversion)
 
+紹介動画は[こちら](https://www.youtube.com/watch?v=Yvc2JfFXx4U)
+
 <ins>目的</ins> : ポインター、タスク管理、音の聞き疲れ防止（同じ効果音にピッチの変化をつけ、ランダム再生する工夫）、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
 
-<ins>特にご注目いただきたい点</ins> :
-- [高度なデバッグ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
-- [セーブ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Game.cpphttps://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
-- [爆発のアルゴリズム](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Blast.cpp)
-
-<img width="1591" height="897" alt="Screenshot 2025-08-16 021157" src="https://github.com/user-attachments/assets/87a0061c-39ad-4569-97f0-b101bbda927f" />
-<img width="1593" height="897" alt="Screenshot 2025-08-16 021348" src="https://github.com/user-attachments/assets/1724e1de-d8e5-402f-8497-1c762f1e5fbf" />
-<img width="1600" height="898" alt="Screenshot 2025-08-16 021256" src="https://github.com/user-attachments/assets/6e797a53-d863-43b6-9259-1bce77aa6290" />
+> [!IMPORTANT]
+> <ins>特にご注目いただきたい点</ins> :
+> - [高度なデバッグ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
+> - [セーブ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Game.cpphttps://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
+> - [爆発のアルゴリズム](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Blast.cpp)
 
 
+> 
+> ## ゲーム内の一覧
+> <img width="1591" height="897" alt="Screenshot 2025-08-16 021157" src="https://github.com/user-attachments/assets/87a0061c-39ad-4569-97f0-b101bbda927f" />
 
+> 
+> ## UI説明
+> <img width="1592" height="893" alt="screen1" src="https://github.com/user-attachments/assets/77d4b82d-e1d3-4d46-9ba2-bb6107ebe341" />
+> <img width="632" height="440" alt="screen5" src="https://github.com/user-attachments/assets/865a256b-0a35-467f-9102-d614fe02b61c" />
+
+
+> 
+> ## オブジェクト説明
+> <img width="1597" height="895" alt="screen2" src="https://github.com/user-attachments/assets/f72cf2ca-9c23-4d89-81d5-b2d67101d50a" />
+> <img width="1590" height="890" alt="screen3" src="https://github.com/user-attachments/assets/1bf89194-ca4e-4f2d-9bf1-56bdef845a8c" />
+
+> 
+> ## デバッグモード説明  
+> <img width="1598" height="897" alt="screen4" src="https://github.com/user-attachments/assets/21cdb1d3-592d-4c1b-a19b-c31c6f178f96" />
+  
 
 
 
@@ -37,8 +54,9 @@ ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_20
 
 作品のリンクは[こちら](https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing)
 
-<ins>特にご注目いただきたい点 </ins> :
-- メインメニューとマッチメイキングメニュー
+> [!IMPORTANT]
+> <ins>特にご注目いただきたい点 </ins> :
+> - メインメニューとマッチメイキングメニュー
 
 <img width="2559" height="1361" alt="FishingBattle1" src="https://github.com/user-attachments/assets/92e72378-1ce0-4ea9-94cf-6263f03e7548" />
 <img width="2559" height="1362" alt="FishingBattle2" src="https://github.com/user-attachments/assets/793ded44-99b2-416a-aee3-aac24e3dd50d" />
@@ -56,10 +74,11 @@ ________________________________________________________________________________
 
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Unity_Team_防衛シューティング_プリンス)
 
-<ins> 特にご注目いただきたい点</ins> :
-- [砲弾の軌道予測ライン機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/TrajectoryPred.cs)
-- [爆発の処理](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/ExpandingExplosion.cs)
-- [弾の発射](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/ShotGenerator.cs)
+> [!IMPORTANT]
+> <ins> 特にご注目いただきたい点</ins> :
+> - [砲弾の軌道予測ライン機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/TrajectoryPred.cs)
+> - [爆発の処理](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/ExpandingExplosion.cs)
+> - [弾の発射](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/ShotGenerator.cs)
 
 <img width="1919" height="1079" alt="Screenshot 2025-08-16 020754" src="https://github.com/user-attachments/assets/e00a7929-4fee-491d-b7df-631235112c86" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-16 020746" src="https://github.com/user-attachments/assets/7d1f2e27-84b1-44fa-9d65-78173843add5" />
@@ -79,9 +98,10 @@ ________________________________________________________________________________
 
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/QuadtreeProject_PFversion)
 
-<ins> 特にご注目いただきたい点</ins> :
-- [独自2D物理エンジン](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/BChara.cpp)
-- [パフォーマンス最適化](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/Quadtree.cpp)
+> [!IMPORTANT]
+> <ins> 特にご注目いただきたい点</ins> :
+> - [独自2D物理エンジン](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/BChara.cpp)
+> - [パフォーマンス最適化](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/Quadtree.cpp)
 
 <img width="1501" height="841" alt="Screenshot 2025-08-16 021529" src="https://github.com/user-attachments/assets/65205b07-3b60-4622-bb8d-cd1cf805fa73" />
 <img width="1499" height="846" alt="Screenshot 2025-08-16 021627" src="https://github.com/user-attachments/assets/f563d444-d8ff-4c92-a419-ea3452f4a6a7" />
