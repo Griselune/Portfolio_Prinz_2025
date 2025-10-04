@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Escape_Infinity_v0.4.4%20-%20PFversion)
 
-紹介動画は[こちら](https://www.youtube.com/watch?v=Yvc2JfFXx4U)
+紹介動画は[こちら](https://youtu.be/KIIaKsDZ21I)
 
 <ins>目的</ins> : ポインター、タスク管理、音の聞き疲れ防止（同じ効果音にピッチの変化をつけ、ランダム再生する工夫）、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
 
@@ -53,6 +53,8 @@ ________________________________________________________________________________
 ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE5_Project)
 
 作品のリンクは[こちら](https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing)
+
+紹介動画は[こちら](https://youtu.be/mVhqih_tWs4)
 
 > [!IMPORTANT]
 > <ins>特にご注目いただきたい点 </ins> :
