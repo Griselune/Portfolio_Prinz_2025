@@ -75,6 +75,7 @@ ________________________________________________________________________________
 ### 制作期間：2025/05 ~ 2025/06 | 30時間程度
 
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Unity_Team_防衛シューティング_プリンス)
+
 紹介動画は[こちら](https://youtu.be/Pae7RPzO3_g)
 
 
@@ -101,6 +102,8 @@ ________________________________________________________________________________
 ### 制作期間：2025/07 ~ 2025/08 | 50時間程度
 
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/QuadtreeProject_PFversion)
+
+紹介動画は[こちら](https://youtu.be/9Qdzd_zyJp8)
 
 > [!IMPORTANT]
 > <ins> 特にご注目いただきたい点</ins> :
