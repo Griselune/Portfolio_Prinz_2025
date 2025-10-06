@@ -60,14 +60,29 @@ ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_20
 > <ins>特にご注目いただきたい点 </ins> :
 > - メインメニューとマッチメイキングメニュー
 
-<img width="1000" height="530" alt="Screenshot 2025-10-05 215125" src="https://github.com/user-attachments/assets/97cbaa5b-74ea-45cd-9b63-70d0960d8102" />
-<img width="1000" height="530" alt="Screenshot 2025-10-05 215151" src="https://github.com/user-attachments/assets/6a118106-a5e6-4c36-9868-1f8f46e8e54e" />
-<img width="1000" height="530" alt="Screenshot 2025-10-05 215226" src="https://github.com/user-attachments/assets/82a97dfe-c1cb-4adb-a5d8-0e759ba5d5ff" />
-<img width="1000" height="530" alt="Screenshot 2025-10-05 215249" src="https://github.com/user-attachments/assets/5478d3cd-101d-4aed-b12f-880849945784" />
-<img width="1000" height="530" alt="Screenshot 2025-10-05 215303" src="https://github.com/user-attachments/assets/274d5ea8-f047-4d15-8afd-dac0821b7b59" />
+> 
+> ## メインメニュ
+> ここからサーバーを作る（ホストになる）か、サーバーを検索して入る（クライアントになる）
+> <img width="1000" height="530" alt="Screenshot 2025-10-05 215125" src="https://github.com/user-attachments/assets/97cbaa5b-74ea-45cd-9b63-70d0960d8102" />
 
-<img width="2559" height="1361" alt="FishingBattle1" src="https://github.com/user-attachments/assets/92e72378-1ce0-4ea9-94cf-6263f03e7548" />
-<img width="2559" height="1362" alt="FishingBattle2" src="https://github.com/user-attachments/assets/793ded44-99b2-416a-aee3-aac24e3dd50d" />
+> ## ホスト側
+> ゲームの設定を決める（バトルロワイアル未実装）
+> <img width="1000" height="530" alt="Screenshot 2025-10-05 215151" src="https://github.com/user-attachments/assets/6a118106-a5e6-4c36-9868-1f8f46e8e54e" />
+> ホストのマッチメイキング画面（ゲームスタートのタイミングを決める側）
+> <img width="1000" height="530" alt="Screenshot 2025-10-05 215226" src="https://github.com/user-attachments/assets/82a97dfe-c1cb-4adb-a5d8-0e759ba5d5ff" />
+ 
+
+> ## クライアント側
+> 同じLANネットワークに存在するサーバーを検索して、入れるようにしている（教室内でクラスメイト方々のお陰で実際行われた）
+> <img width="1000" height="530" alt="Screenshot 2025-10-05 215249" src="https://github.com/user-attachments/assets/5478d3cd-101d-4aed-b12f-880849945784" />
+> クライアントのマッチメイキング画面（ゲームスタートを待つ側）
+> <img width="1000" height="530" alt="Screenshot 2025-10-05 215303" src="https://github.com/user-attachments/assets/274d5ea8-f047-4d15-8afd-dac0821b7b59" />
+
+
+> ## ゲーム内の一覧
+> 魚を釣って、武器として扱って戦うというコンセプト
+> <img width="2559" height="1361" alt="FishingBattle1" src="https://github.com/user-attachments/assets/92e72378-1ce0-4ea9-94cf-6263f03e7548" />
+> <img width="2559" height="1362" alt="FishingBattle2" src="https://github.com/user-attachments/assets/793ded44-99b2-416a-aee3-aac24e3dd50d" />
 
 
 
@@ -89,9 +104,17 @@ ________________________________________________________________________________
 > - [弾の発射](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Unity_Team_防衛シューティング_プリンス/制作/Assets/Prinz/Scripts/ShotGenerator.cs)
 
 
-<img width="1919" height="1079" alt="Screenshot 2025-08-16 020754" src="https://github.com/user-attachments/assets/e00a7929-4fee-491d-b7df-631235112c86" />
-<img width="1919" height="1079" alt="Screenshot 2025-08-16 020746" src="https://github.com/user-attachments/assets/7d1f2e27-84b1-44fa-9d65-78173843add5" />
-<img width="1917" height="1078" alt="Screenshot 2025-08-16 020734" src="https://github.com/user-attachments/assets/420b8617-5f9c-45fa-bc2d-124d5011118d" />
+> 
+> ## 軌道予測ライン機能
+> 弾の速度（チャージ）、重力、狙っているところ（マウス位置）によって計算し、表示する
+> <img width="1919" height="1079" alt="Screenshot 2025-08-16 020754" src="https://github.com/user-attachments/assets/e00a7929-4fee-491d-b7df-631235112c86" />
+
+> ## 弾の発射
+> <img width="1919" height="1079" alt="Screenshot 2025-08-16 020746" src="https://github.com/user-attachments/assets/7d1f2e27-84b1-44fa-9d65-78173843add5" />
+
+> ## 大爆発
+> 最大威力の攻撃は大爆発になり、広い範囲内で敵を一撃で倒す
+> <img width="1917" height="1078" alt="Screenshot 2025-08-16 020734" src="https://github.com/user-attachments/assets/420b8617-5f9c-45fa-bc2d-124d5011118d" />
 
 
 
@@ -105,6 +128,10 @@ ________________________________________________________________________________
 ## [個人制作] QuadtreeProject - JEC Engine (校内) - C++ / DirectX / Windows API
 ### 制作期間：2025/07 ~ 2025/08 | 50時間程度
 
+> [!WARNING]
+> ゲームと言うより、これから作品に活用できる機能の研究となっております。
+> 今後は大量の敵を倒すゲームが目的にするため、その準備が必要かと考えておりました。
+
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/QuadtreeProject_PFversion)
 
 紹介動画は[こちら](https://youtu.be/9Qdzd_zyJp8)
@@ -114,6 +141,15 @@ ________________________________________________________________________________
 > - [独自2D物理エンジン](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/BChara.cpp)
 > - [パフォーマンス最適化](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/QuadtreeProject_PFversion/Quadtree.cpp)
 
-<img width="1501" height="841" alt="Screenshot 2025-08-16 021529" src="https://github.com/user-attachments/assets/65205b07-3b60-4622-bb8d-cd1cf805fa73" />
-<img width="1499" height="846" alt="Screenshot 2025-08-16 021627" src="https://github.com/user-attachments/assets/f563d444-d8ff-4c92-a419-ea3452f4a6a7" />
-<img width="1502" height="844" alt="Screenshot 2025-08-16 021600" src="https://github.com/user-attachments/assets/605bc577-8e90-4517-8177-e8069881978d" />
+> 
+> ## クワッドツリーを活用していない状態
+> 300個オブジェクトを対応したら、フレームレートが20未満になる
+> <img width="1501" height="841" alt="Screenshot 2025-08-16 021529" src="https://github.com/user-attachments/assets/65205b07-3b60-4622-bb8d-cd1cf805fa73" />
+
+> ## クワッドツリーを発動
+> 領域内（白い線で表示されている）オブジェクトが10個を超えたら、再帰的に分別する。各オブジェクトは同じ領域に入っているオブジェクトだけとの当たり判定を行う。
+> <img width="1500" height="845" alt="Screenshot 2025-10-06 135900" src="https://github.com/user-attachments/assets/79c2c69c-2834-4810-8362-b7caff8acef9" />
+
+> ## クワッドツリー活用している状態
+> 690個オブジェクトがあっても、60FPSをキープしている
+> <img width="1502" height="844" alt="Screenshot 2025-08-16 021600" src="https://github.com/user-attachments/assets/605bc577-8e90-4517-8177-e8069881978d" />
