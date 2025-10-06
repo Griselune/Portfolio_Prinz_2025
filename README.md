@@ -17,7 +17,7 @@ ________________________________________________________________________________
 > [!IMPORTANT]
 > <ins>特にご注目いただきたい点</ins> :
 > - [高度なデバッグ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
-> - [セーブ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Game.cpphttps://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Debug_Display.cpp)
+> - [セーブ機能](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Game.cpp)
 > - [爆発のアルゴリズム](https://github.com/Griselune/Portfolio_Prinz_2025/blob/main/Escape_Infinity_v0.4.4%20-%20PFversion/Task_Blast.cpp)
 
 
