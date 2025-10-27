@@ -59,11 +59,9 @@ ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_20
 
 作品のリンクは[こちら](https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing)
 
-（最新バージョン）
-β版の紹介は[こちら](https://youtu.be/FZIe2jCq3XE)
+最新バージョン　→　β版の紹介は[こちら](https://youtu.be/FZIe2jCq3XE)
 
-（50時間程度の進歩が気になれば）
-α版の紹介動画は[こちら](https://youtu.be/mVhqih_tWs4)
+50時間程度の進歩が気になれば　→　α版の紹介動画は[こちら](https://youtu.be/mVhqih_tWs4)
 
 
 > [!IMPORTANT]
