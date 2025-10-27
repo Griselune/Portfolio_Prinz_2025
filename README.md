@@ -5,6 +5,69 @@
 __________________________________________________________________________________________________
 __________________________________________________________________________________________________
 
+## [チーム制作　4人]　Fishing Battle - Unreal Engine 5.5.4 - C++ / BluePrint
+### 制作期間：2025/06/23 ~ 2025/07/30 (α版　－　100時間)　+ 2025/09/24 ~ 2025/10/27（β版　－　50時間）　｜150時間程度
+プログラマー4人　－　【チームリーダー】ー　メニュー/マッチメイキング担当
+
+ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE5_Project)
+
+作品のリンクは[こちら](https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing)
+
+最新バージョン　→　β版の紹介は[こちら](https://youtu.be/FZIe2jCq3XE)
+
+50時間程度の進歩が気になれば　→　α版の紹介動画は[こちら](https://youtu.be/mVhqih_tWs4)
+
+
+> [!IMPORTANT]
+> <ins>特にご注目いただきたい点 </ins> :
+> - メインメニュー、マッチメイキング、ネームタグ（ゲーム中の名前表示）
+
+> 
+> ## メインメニュ
+> ここからサーバーを作る（ホストになる）か、サーバーを検索して入る（クライアントになる）
+> <img width="1000" height="530" alt="Screenshot 2025-10-27 184906" src="https://github.com/user-attachments/assets/4ef4cf8b-7fd2-4c91-a998-7eb79132f6ec" />
+> <img width="1000" height="530" alt="Screenshot 2025-10-27 184936" src="https://github.com/user-attachments/assets/b11d618a-6da6-48af-b7fc-1ff40a606ba9" />
+
+
+> ## ホスト側
+> ゲームの設定を決める（バトルロワイアル未実装）
+> <img width="1000" height="530" alt="Screenshot 2025-10-27 185045" src="https://github.com/user-attachments/assets/05cfd050-b6ec-4758-a0b2-d6d719d9c86b" />
+> ホストのマッチメイキング画面（ゲームスタートのタイミングを決める側）
+> <img width="1000" height="530" alt="Screenshot 2025-10-27 185059" src="https://github.com/user-attachments/assets/ef279b69-5d61-45d7-8fba-7207123710f6" />
+ 
+
+> ## クライアント側
+> 同じLANネットワークに存在するサーバーを検索して、入れるようにしている（教室内でクラスメイト方々のお陰で実際行われた）
+> <img width="1000" height="530" alt="Screenshot 2025-10-27 185231" src="https://github.com/user-attachments/assets/ecfb304c-fcaf-43ea-b58e-c9e6abeb5133" />
+> クライアントのマッチメイキング画面（ゲームスタートを待つ側）
+> <img width="1000" height="530" alt="Screenshot 2025-10-27 185346" src="https://github.com/user-attachments/assets/8c7f259c-bfba-4891-bd97-e61e78d2cb60" />
+> 部屋に入っているプレヤーが全員「準備」ボタンを押したら、ホストの「始める」ボタンが緑色になって、ゲーム開始が可能になります。
+> <img width="1000" height="530" alt="Screenshot 2025-10-27 185402" src="https://github.com/user-attachments/assets/1fedeb08-c2ab-438c-a913-bd66efa8e06f" />
+
+
+
+> ## ゲーム内の一覧
+> 魚を釣って、武器として扱って戦うというコンセプト
+> <img width="2245" height="1257" alt="Screenshot 2025-10-27 190644" src="https://github.com/user-attachments/assets/cd75559f-54ac-4098-8ba3-405c2f2ff7fc" />
+> <img width="2240" height="1259" alt="Screenshot 2025-10-27 190828" src="https://github.com/user-attachments/assets/7271b529-16c7-481e-8276-9fa71ccee729" />
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________________
+
+
 ## [個人制作] **Escape Infinity** - JEC Engine (校内) - C++ / DirectX / Windows API
 ### 制作期間：2024/12 ~ 2025/03 | 200時間程度
 
@@ -39,63 +102,6 @@ ________________________________________________________________________________
 > 
 > ## デバッグモード説明  
 > <img width="1598" height="897" alt="screen4" src="https://github.com/user-attachments/assets/21cdb1d3-592d-4c1b-a19b-c31c6f178f96" />
-  
-
-
-
-
-
-
-
-
-
-
-__________________________________________________________________________________________________
-## [チーム制作　4人]　Fishing Battle - Unreal Engine 5.5.4 - C++ / BluePrint
-### 制作期間：2025/06/23 ~ 2025/07/30 (α版　－　100時間)　+ 2025/09/24 ~ 2025/10/27（β版　－　50時間）　｜150時間程度
-プログラマー4人　－　【チームリーダー】
-
-ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE5_Project)
-
-作品のリンクは[こちら](https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing)
-
-最新バージョン　→　β版の紹介は[こちら](https://youtu.be/FZIe2jCq3XE)
-
-50時間程度の進歩が気になれば　→　α版の紹介動画は[こちら](https://youtu.be/mVhqih_tWs4)
-
-
-> [!IMPORTANT]
-> <ins>特にご注目いただきたい点 </ins> :
-> - メインメニューとマッチメイキングメニュー
-
-> 
-> ## メインメニュ
-> ここからサーバーを作る（ホストになる）か、サーバーを検索して入る（クライアントになる）
-> <img width="1000" height="530" alt="Screenshot 2025-10-05 215125" src="https://github.com/user-attachments/assets/97cbaa5b-74ea-45cd-9b63-70d0960d8102" />
-
-> ## ホスト側
-> ゲームの設定を決める（バトルロワイアル未実装）
-> <img width="1000" height="530" alt="Screenshot 2025-10-05 215151" src="https://github.com/user-attachments/assets/6a118106-a5e6-4c36-9868-1f8f46e8e54e" />
-> ホストのマッチメイキング画面（ゲームスタートのタイミングを決める側）
-> <img width="1000" height="530" alt="Screenshot 2025-10-05 215226" src="https://github.com/user-attachments/assets/82a97dfe-c1cb-4adb-a5d8-0e759ba5d5ff" />
- 
-
-> ## クライアント側
-> 同じLANネットワークに存在するサーバーを検索して、入れるようにしている（教室内でクラスメイト方々のお陰で実際行われた）
-> <img width="1000" height="530" alt="Screenshot 2025-10-05 215249" src="https://github.com/user-attachments/assets/5478d3cd-101d-4aed-b12f-880849945784" />
-> クライアントのマッチメイキング画面（ゲームスタートを待つ側）
-> <img width="1000" height="530" alt="Screenshot 2025-10-05 215303" src="https://github.com/user-attachments/assets/274d5ea8-f047-4d15-8afd-dac0821b7b59" />
-
-
-> ## ゲーム内の一覧
-> 魚を釣って、武器として扱って戦うというコンセプト
-> <img width="2559" height="1361" alt="FishingBattle1" src="https://github.com/user-attachments/assets/92e72378-1ce0-4ea9-94cf-6263f03e7548" />
-> <img width="2559" height="1362" alt="FishingBattle2" src="https://github.com/user-attachments/assets/793ded44-99b2-416a-aee3-aac24e3dd50d" />
-
-
-
-
-
 __________________________________________________________________________________________________
 ## [チーム制作　4人]　防衛シューティングゲーム - Unity2022.3.4f1 - C#
 ### 制作期間：2025/05 ~ 2025/06 | 30時間程度
