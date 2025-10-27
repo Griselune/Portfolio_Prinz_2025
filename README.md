@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 作品のリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/Escape_Infinity_v0.4.4%20-%20PFversion)
 
-紹介動画は[こちら](https://youtu.be/KIIaKsDZ21I)
+紹介動画は[こちら](https://youtu.be/lAj1O3JkDoo)
 
 <ins>目的</ins> : ポインター、タスク管理、音の聞き疲れ防止（同じ効果音にピッチの変化をつけ、ランダム再生する工夫）、ゲージ表示、デバッグ機能など、可能な限り新しいことを学ぶことを意識して制作しました。
 
@@ -52,14 +52,19 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________
 ## [チーム制作　4人]　Fishing Battle - Unreal Engine 5.5.4 - C++ / BluePrint
-### 制作期間：2025/06/23 ~ 2025/07/30　｜100時間程度
+### 制作期間：2025/06/23 ~ 2025/07/30 (α版　－　100時間)　+ 2025/09/24 ~ 2025/10/27（β版　－　50時間）　｜150時間程度
 プログラマー4人　－　【チームリーダー】
 
 ReadMeのリンクは[こちら](https://github.com/Griselune/Portfolio_Prinz_2025/tree/main/UE5_Project)
 
 作品のリンクは[こちら](https://drive.google.com/drive/folders/1RdoUTnzlVHQ70WPxSr795uvYlOON__w2?usp=sharing)
 
-紹介動画は[こちら](https://youtu.be/mVhqih_tWs4)
+（最新バージョン）
+β版の紹介は[こちら](https://youtu.be/FZIe2jCq3XE)
+
+（50時間程度の進歩が気になれば）
+α版の紹介動画は[こちら](https://youtu.be/mVhqih_tWs4)
+
 
 > [!IMPORTANT]
 > <ins>特にご注目いただきたい点 </ins> :
